@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Andrea\'s Resort</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="bookings">Bookings</string>
+    <string name="rooms">Rooms</string>
+    <string name="profile">Profile</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recent_bookings">Recent Bookings</string>
+    <string name="new_booking">New Booking</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="reports">Reports</string>
+    <string name="guest_name">Guest Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="number_of_adults">Number of Adults</string>
+    <string name="number_of_children">Number of Children</string>
+    <string name="select_room">Select Room</string>
+    <string name="booking_summary">Booking Summary</string>
+    <string name="payment_summary">Payment Summary</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="booking_created_successfully">Booking Created Successfully</string>
+    <string name="guests_checked_in_successfully">Guests Checked In Successfully</string>
+    <string name="booking_cancelled_successfully">Booking Cancelled Successfully</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="rooms_and_suites">Rooms and Suites</string>
+    <string name="my_profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="about">About Andrea\'s Resort</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="stay_in_details">Stay in Details</string>
+    <string name="room_details">Room Details</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="deluxe_room_1">Deluxe Room 1</string>
+    <string name="deluxe_room_2">Deluxe Room 2</string>
+    <string name="deluxe_room_3">Deluxe Room 3</string>
+</resources>
